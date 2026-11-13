@@ -2,7 +2,7 @@ package kz.kaznu.aiym.first;
 
 import java.util.Locale;
 
-/**
+/*
  * Метод Ньютона (касательных) для уравнения f(x) = 0 на отрезке [a; b].
  * Пример: f(x) = x^2 - 2 на [1; 2], x0 = 1.5, eps = 1e-10 (корень = sqrt(2)).
  *
