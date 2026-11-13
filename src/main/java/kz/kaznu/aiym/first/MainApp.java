@@ -11,12 +11,12 @@ import java.util.Locale;
  */
 public class MainApp {
 
-    /** Исходная функция f(x) = x^2 - 2. */
+    /* Исходная функция f(x) = x^2 - 2. */
     static double f(double x) {
         return x * x - 2;
     }
 
-    /** Производная f'(x) = 2x. */
+    /* Производная f'(x) = 2x. */
     static double df(double x) {
         return 2 * x;
     }
